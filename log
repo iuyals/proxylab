@@ -1,0 +1,49 @@
+Accepted connection from (localhost, 49418)
+***user sent 1st line:CONNECT www.baidu.com:443 HTTP/1.1
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: www.baidu.com:443
+
+***uri:www.baidu.com:443 filename:.www.baidu.com:443 cgiargs: ****
+Response headers:
+HTTP/1.0 200 OK
+Server: myproxy
+Connection: close
+Content-length: 10
+Content-type: text/html
+
+Accepted connection from (localhost, 49426)
+***user sent 1st line:GET http://localhost:1081/ HTTP/1.1
+
+Accepted connection from (localhost, 49463)
+***user sent 1st line:GET http://localhost:1081/ HTTP/1.1
+
+Accepted connection from (localhost, 49468)
+***user sent 1st line:GET http://localhost:1081/ HTTP/1.1
+
+Accepted connection from (localhost, 49469)
+***user sent 1st line:GET http://localhost:1081/ HTTP/1.1
+
+Accepted connection from (localhost, 49470)
+***user sent 1st line:GET http://localhost:1081/ HTTP/1.1
+
+Accepted connection from (localhost, 49488)
+***user sent 1st line:CONNECT www.baidu.com:443 HTTP/1.1
+
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: www.baidu.com:443
+
+***uri:www.baidu.com:443 filename:.www.baidu.com:443 cgiargs: ****
+Response headers:
+HTTP/1.0 200 OK
+Server: myproxy
+Connection: close
+Content-length: 10
+Content-type: text/html
+
+Accepted connection from (localhost, 49513)
+***user sent 1st line:GET http://localhost:1081/ H
